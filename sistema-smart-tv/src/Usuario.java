@@ -10,6 +10,7 @@ public class Usuario {
         System.out.println("A TV está no canal: " +smartTv.canal); 
 
         smartTv.mudarCanal(13);
+        
 
         System.out.println("A TV está no canal: " +smartTv.canal); 
 

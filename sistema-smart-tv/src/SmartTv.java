@@ -29,11 +29,9 @@ public class SmartTv{
 }
 
     public void ligar(){
-
         ligada = true;
     }
     public void desligar(){
-
-        ligada = false;
+         ligada = false;
     }
 }
